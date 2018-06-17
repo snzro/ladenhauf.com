@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sound &#8211; wilfried ladenhauf</title>
+	<atom:link href="/category/sound/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>analog &#124; digital &#124; art aus markt hartmannsdorf</description>
+	<lastBuildDate>Sun, 17 Jun 2018 09:39:10 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<item>
+		<title>ronnie wolf &#8211; wolves (phosphorescent)</title>
+		<link>/ronnie-wolf-wolves-phosphorescent/</link>
+		<comments>/ronnie-wolf-wolves-phosphorescent/#respond</comments>
+		<pubDate>Tue, 11 Nov 2014 10:07:20 +0000</pubDate>
+		<dc:creator><![CDATA[Wilfried Ladenhauf]]></dc:creator>
+				<category><![CDATA[sound]]></category>
+
+		<guid isPermaLink="false">/?p=441</guid>
+		<description><![CDATA[<p>ronnie wolf &#8211; wolves phosphorescent cover version recorded: 09.11.2014</p>
+<p>Der Beitrag <a rel="nofollow" href="/ronnie-wolf-wolves-phosphorescent/">ronnie wolf &#8211; wolves (phosphorescent)</a> erschien zuerst auf <a rel="nofollow" href="/">wilfried ladenhauf</a>.</p>
+]]></description>
+		<wfw:commentRss>/ronnie-wolf-wolves-phosphorescent/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ronnie wolf &#8211; sooften (demo)</title>
+		<link>/ronnie-wolf-sooften-demo/</link>
+		<comments>/ronnie-wolf-sooften-demo/#respond</comments>
+		<pubDate>Mon, 20 Oct 2014 19:29:05 +0000</pubDate>
+		<dc:creator><![CDATA[Wilfried Ladenhauf]]></dc:creator>
+				<category><![CDATA[sound]]></category>
+
+		<guid isPermaLink="false">/?p=414</guid>
+		<description><![CDATA[<p>ronnie wolf &#8211; sooften old song. written approx. 2002. recorded 8.11.2014, basement studio at markt hartmannsdorf. performend by wolf.</p>
+<p>Der Beitrag <a rel="nofollow" href="/ronnie-wolf-sooften-demo/">ronnie wolf &#8211; sooften (demo)</a> erschien zuerst auf <a rel="nofollow" href="/">wilfried ladenhauf</a>.</p>
+]]></description>
+		<wfw:commentRss>/ronnie-wolf-sooften-demo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>someday &#8211; demo</title>
+		<link>/someday-demo/</link>
+		<comments>/someday-demo/#respond</comments>
+		<pubDate>Wed, 06 Nov 2013 07:37:32 +0000</pubDate>
+		<dc:creator><![CDATA[Wilfried Ladenhauf]]></dc:creator>
+				<category><![CDATA[sound]]></category>
+		<category><![CDATA[ladenhauf.com]]></category>
+
+		<guid isPermaLink="false">/?p=168</guid>
+		<description><![CDATA[<p>kinda like this one! someday. &#8211; ronnie wolf original.</p>
+<p>Der Beitrag <a rel="nofollow" href="/someday-demo/">someday &#8211; demo</a> erschien zuerst auf <a rel="nofollow" href="/">wilfried ladenhauf</a>.</p>
+]]></description>
+		<wfw:commentRss>/someday-demo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ready to go now! &#8211; demo</title>
+		<link>/new-song-ready-to-go-now/</link>
+		<pubDate>Tue, 19 Feb 2013 14:45:09 +0000</pubDate>
+		<dc:creator><![CDATA[Wilfried Ladenhauf]]></dc:creator>
+				<category><![CDATA[sound]]></category>
+
+		<guid isPermaLink="false">/?p=75</guid>
+		<description><![CDATA[<p>you are ready to go now! &#8211; ronnie wolf original.</p>
+<p>Der Beitrag <a rel="nofollow" href="/new-song-ready-to-go-now/">ready to go now! &#8211; demo</a> erschien zuerst auf <a rel="nofollow" href="/">wilfried ladenhauf</a>.</p>
+]]></description>
+		</item>
+	</channel>
+</rss>
